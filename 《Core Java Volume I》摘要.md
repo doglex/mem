@@ -6,7 +6,7 @@ title: '《Core Java Volume I》摘要'
 
 > 原书与c++比较
 > 增加与python的比较
-
+```
 # 权限
 - public 公共可见
 - private 自己可见
@@ -1164,3 +1164,4 @@ Collections.synchronized()
 
 21.线程与SWING
 SWING不是线程安全的
+```
